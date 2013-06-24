@@ -1,0 +1,20 @@
+ul {
+	list-style: none;
+}
+.default {
+	font-family: verdana;
+	font-size: 0.8em;
+}
+#onlineList {
+	width: 20em;
+	height: 100%;
+}
+li {
+	height: 2em;
+	border-bottom: 1px solid #EFEFEF;
+	margin-top: 0.5em;
+}
+.statusImg {
+	width: 1em;
+	height: 1em;
+}
