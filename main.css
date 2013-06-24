@@ -13,6 +13,8 @@ li {
 	height: 2em;
 	border-bottom: 1px solid #EFEFEF;
 	margin-top: 0.5em;
+	cursor: hand;
+	cursor: pointer;
 }
 .statusImg {
 	width: 1em;
