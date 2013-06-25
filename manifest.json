@@ -8,8 +8,10 @@
   "permissions": [
     "https://nothing.com/"
   ],
+  
   "browser_action": {
-    "default_icon": "chat_icon.jpg",
-    "default_popup": "main.html"
+    "default_icon": "resources/chat_icon.jpg",
+    "default_popup": "main.html",
+    "default_title": "Google chat"
   }
 }
