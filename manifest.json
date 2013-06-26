@@ -6,8 +6,11 @@
   "version": "1.0",
 
   "permissions": [
-    "https://nothing.com/"
+    "https://nothing.com/",
+    "cookies"
   ],
+  
+  "options_page": "options.html",
   
   "browser_action": {
     "default_icon": "resources/chat_icon.jpg",
